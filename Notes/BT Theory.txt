@@ -1,0 +1,70 @@
+Assignment 1
+
+Introduction to Blockchain:
+- Blockchain is a data structure that stores transaction records, emphasizing security, transparency, and decentralization.
+- It consists of a chain of blocks, and no single authority controls it.
+- Once data is on the blockchain, it's extremely difficult to alter.
+- Digital signatures ensure the authenticity and tamper-proof nature of blockchain data.
+- Blockchain relies on consensus among network participants for record-keeping, eliminating the need for third parties.
+
+Blockchain Features:
+- Decentralization: No single entity controls the network, providing transparency and power to users.
+- Peer-to-Peer Network: Enables direct interactions without third-party involvement, leading to fast and cost-effective transactions.
+- Immutability: Data written on the blockchain cannot be changed, similar to sending an irreversible email.
+- Tamper-Proof: Tampering with blockchain data is detectable, thanks to immutability, hashes, and blocks.
+
+Popular Applications of Blockchain Technology:
+- Time-saving: Eliminates the need for central authority verification, speeding up and reducing the cost of settlements.
+- Cost-saving: Reduces expenses by removing intermediaries, enabling direct asset sharing, and minimizing transaction efforts.
+- Tighter security: Data on the blockchain is shared among numerous participants, making it resistant to cybercrimes and fraud.
+- In financial market trading, Fibonacci retracement levels are widely used in technical analysis.
+
+Assignment 2
+
+- Cryptocurrency is a digital payment system that operates without relying on traditional banks for transaction verification.
+
+- It's a peer-to-peer system enabling people to send and receive payments as digital entries in a public ledger, with no physical currency involved.
+
+- Transactions are secured through encryption, and cryptocurrency is stored in digital wallets.
+
+- The first and most well-known cryptocurrency is Bitcoin, established in 2009, with a primary focus on trading and speculation.
+
+- Cryptocurrencies operate on a distributed public ledger known as blockchain, which is maintained and updated by currency holders.
+
+- New cryptocurrency units are created through mining, a process that involves solving complex mathematical problems with computer power.
+
+- Ownership of cryptocurrency is represented by a cryptographic key that facilitates the transfer of digital assets without relying on a trusted third party.
+
+- Cryptocurrencies and blockchain technology are still evolving, and their applications may expand to include trading various financial assets like bonds and stocks.
+
+Cryptocurrency Examples:
+- Bitcoin: The first and most traded cryptocurrency, founded in 2009 by an anonymous entity or group called Satoshi Nakamoto.
+- Ethereum: Introduced in 2015, it's a blockchain platform with its own cryptocurrency, Ether (ETH).
+- Litecoin: Similar to Bitcoin but with faster transaction processing and innovations.
+- Ripple: Developed in 2012, Ripple is a distributed ledger system used to track various types of transactions, not limited to cryptocurrencies.
+
+Storing Cryptocurrency:
+- Cryptocurrency is stored in digital wallets, which can be physical hardware devices or online software.
+- Wallets can be provided by exchanges or chosen separately.
+- "Hot wallets" are online software-based storage options.
+- "Cold wallets" (hardware wallets) rely on offline devices to securely store private keys.
+
+Assignment 4
+
+1. Solidity:
+   a. Solidity is a contract-oriented, high-level programming language used for implementing smart contracts on the Ethereum blockchain.
+   b. It draws influences from programming languages like C++, Python, and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
+
+2. Ethereum Virtual Machine (EVM):
+   a. The Ethereum Virtual Machine (EVM) serves as the runtime environment for executing smart contracts on the Ethereum blockchain.
+   b. EVM is sandboxed and isolated from other system components, ensuring that its operations do not impact your data or programs.
+   c. Regardless of how many times a particular function is called on the EVM, it should not affect the system's data or programs.
+   d. EVM is Turing complete, meaning it can execute scripts to produce arbitrary outcomes.
+   e. It is designed to act as a "world computer" with significant computing power.
+   f. Even if an account is compromised or hacked, the hacker cannot steal funds from the Ethereum system because they lack the necessary budget or authority.
+
+3. Solidity Constructs:
+   a. Arrays: In Solidity, arrays can be of fixed size or dynamic size. They occupy continuous memory locations, with the lowest index representing the first element and the highest index representing the last.
+   b. Fallback: The Solidity fallback function is executed when none of the other functions match the function identifier or when no data is provided with the function call.
+   c. Struct: Structs in Solidity allow the creation of complex data types with multiple properties. They enable you to define custom types by creating a struct.
+
