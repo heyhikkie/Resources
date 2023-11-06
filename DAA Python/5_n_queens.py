@@ -39,6 +39,9 @@ if __name__=="__main__":
 
 //-----------------------------------------------------------------------------------------------------------
 
+// another option
+
+
 class NQueens:
     def __init__(self) -> None:
         self.size = int(input("Enter size of chessboard: "))
