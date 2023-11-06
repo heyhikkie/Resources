@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class AssigOne {
+public class AssignOne {
     // Non-Recursive (Iterative) Implementation
     // Time Complexity: O(n)
     public static int fibonacciNonRecursive(int n) {
